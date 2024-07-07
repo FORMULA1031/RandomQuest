@@ -1,0 +1,1 @@
+{"herbs":2,"honey":2,"money":200}
